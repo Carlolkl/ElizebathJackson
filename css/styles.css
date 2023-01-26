@@ -1,0 +1,16 @@
+.logoImage {
+    width:10%;
+    height:auto;
+  }
+  #contactMe{
+      margin-top: 3%;
+      font-size: large;
+  }
+  .profileImg{
+    width:50%;
+    height:auto;
+  }
+  .contactInfo{
+      line-height: 5rem;
+      font-size: x-large;
+  }
